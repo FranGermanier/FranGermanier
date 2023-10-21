@@ -28,9 +28,9 @@
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/HTML5_-EB472B?logo=HTML5&logoColor=FFFFFF)
+   ![CSS](https://img.shields.io/badge/CSS_-3799D6?logo=CSS3&logoColor=FFFFFF)
+   ![JavaScript](https://img.shields.io/badge/JavaScript_-EFDA4D?logo=JavaScript&logoColor=000000)
 
 <br>
   
