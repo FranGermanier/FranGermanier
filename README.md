@@ -21,7 +21,7 @@
   
 - **Languages**:
 
-    ![Python](https://img.shields.io/badge/Python-162EA7?logo=Python&logoColor=FFFFFF)
-    ![Pascal](https://img.shields.io/badge/Pascal-030A6B?logo=Pascal)
+    ![Python](https://img.shields.io/badge/Python_-162EA7?logo=Python&logoColor=FFFFFF)
+    ![Pascal](https://img.shields.io/badge/Pascal_-162EA7)
   
 </p>
