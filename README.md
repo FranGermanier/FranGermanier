@@ -21,6 +21,7 @@
 <p align="center">
   
 - **Languages**:
-  ![Python](https://img.shields.io/badge/Python-162EA7)
+
+    ![Python]([https://img.shields.io/badge/Python-162EA7](https://img.shields.io/badge/Python-162EA7)https://img.shields.io/badge/Python-162EA7)
   
 </p>
