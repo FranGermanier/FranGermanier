@@ -56,5 +56,12 @@
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=FFFFFF" alt=linkedin style="margin-bottom: 5px;"/>
     </a>
   </li>
+
+  <ul>
+  <li>
+    <a href="franciscogermanier2015@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=FFFFFF" alt=gmail style="margin-bottom: 5px;"/>
+    </a>
+  </li>
   
 </ul>
