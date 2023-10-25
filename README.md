@@ -57,9 +57,11 @@
     </a>
   </li>
 
+  <br>
+  
   <ul>
   <li>
-    <a href="franciscogermanier2015@gmail.com" target="_blank">
+    <a href="mailto:franciscogermanier2015@gmail.com"/Send mail>
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=FFFFFF" alt=gmail style="margin-bottom: 5px;"/>
     </a>
   </li>
