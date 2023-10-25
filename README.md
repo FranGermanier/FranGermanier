@@ -37,5 +37,11 @@
   - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/GitHub-2A404D?logo=github&logoColor=FFFFFF)
-
+    ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0079CC?logo=visualStudioCode&logoColor=FFFFFF)
+    
 </p>
+
+<br>
+<br>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
