@@ -46,7 +46,11 @@
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
-<p>
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffran-germanier-073a06213%2F)
-
-</p>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/fran-germanier-073a06213/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-             badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    </a>
+  </li>
+  
+</ul>
