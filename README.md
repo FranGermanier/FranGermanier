@@ -49,7 +49,7 @@
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/fran-germanier-073a06213/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-             badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=FFFFFF" alt=linkedin style="margin-bottom: 5px;"/>
     </a>
   </li>
   
