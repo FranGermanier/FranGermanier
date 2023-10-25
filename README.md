@@ -59,10 +59,9 @@
 
   <br>
   
-  <ul>
   <li>
-    <a href="mailto:franciscogermanier2015@gmail.com"/Send mail>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=FFFFFF" alt=gmail style="margin-bottom: 5px;"/>
+    <a href="https://github.com/FranGermanier" target="_balck">
+    <img src="https://img.shields.io/badge/GitHub-2A404D?logo=Github&logoColor=FFFFFF" alt=github style="margin-bottom: 5px;"/>
     </a>
   </li>
   
