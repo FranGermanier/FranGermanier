@@ -33,5 +33,9 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript_-EFDA4D?logo=JavaScript&logoColor=000000)
 
 <br>
-  
+
+  - **Softwares and Tools**:
+
+    ![GitHub](https://img.shields.io/badge/GitHub-2A404D?logo=github&logoColor=FFFFFF)
+
 </p>
